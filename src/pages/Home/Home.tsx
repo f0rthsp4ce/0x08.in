@@ -30,14 +30,10 @@ const Home: NextPage = () => {
           <h2>Как с нами взаимодействовать</h2>
         </header>
         <p>
-          Приходите к нам на события – мы проводим мастер-классы, лекции и встречи обо всем –
-          от пайки и пентеста, до синтезаторов, шейдеров и VR.
-        </p>
-        <p>
           Приходите в гости – пообщаться, познакомиться с пространством или попросить помощи
-          для своего проекта. Мы понимаем, что всем комфортно знакомиться по-разному, поэтому
-          можно прийти просто почитать книгу (у нас классная библиотека) или попросить резидента
-          помочь познакомиться с остальными.
+          для своего проекта. У всех свои представления о комфортном знакомстве, поэтому к нам
+          можно просто прийти и посмотреть на людей за работой или же сразу присоединиться к
+          заинтересовавшему вас проекту.
         </p>
         <p>
           Резиденты занимаются спейсом в свободное время на чистом энтузиазме, поэтому у нас нет
@@ -47,7 +43,7 @@ const Home: NextPage = () => {
           чтобы мы согласовали удобное всем время.
         </p>
         <p>
-          F0RTHSP4CE – не закрытый клуб. Если вы разделяете наши принципы и хотите делать его вместе – станьте <a href="https://wiki.0x08.in/ru/101/roles">резидентом</a>.
+          F0RTHSP4CE – не закрытый клуб. Если вы разделяете наши принципы и хотите делать его вместе – станьте резидентом.
         </p>
       </article>
 
@@ -85,7 +81,6 @@ const Home: NextPage = () => {
             <p>Safety first. Заботьтесь о безопасности себя и окружающих.</p>
           </li>
         </ol>
-        <p>Подробнее, в <a href="https://wiki.0x08.in/ru/101/rules-and-principles">F0RTHSP4CE 101</a>. </p>
       </article>
 
       <article>
@@ -97,14 +92,8 @@ const Home: NextPage = () => {
           Если вы хотите нас поддержать, можно:
         </p>
         <ul>
-          <li>задонатить на <a href="https://sobe.ru/na/bksp">Собе.ру</a></li>
           <li>закинуть наличку в Donation Box</li>
-          {/* <li>
-            задонатить что-нибудь из&nbsp;
-            <Link href="/wishlist" passHref>
-              <a>вишлиста</a>
-            </Link>
-          </li> */}
+          <li>задонатить инструменты или материалы</li>
         </ul>
       </article>
 
@@ -114,32 +103,16 @@ const Home: NextPage = () => {
         </header>
         <ul>
           <li>
-            СПб, Ланское шоссе, 14к1 (м. Черная речка) —&nbsp;
-            <a href="https://yandex.ru/maps/-/CCU5yWBvGD">Яндекс</a>,&nbsp;
-            <a href="https://go.2gis.com/nf715">2GIS</a>
-          </li>
-          <li>
-            Подробнее о том,&nbsp;
-            <Link href="/where" passHref>
-              <a>как до нас добраться</a>
-            </Link>&nbsp;
+            Тбилиси, ул. Хорава, 18 (Ваке) —&nbsp;
+            <a href="https://yandex.com.ge/maps/-/CCUBYGSX9D">Яндекс</a>&nbsp;
           </li>
           <li>
             <span>Telegram: </span>
-            <a href="https://t.me/b4cksp4ce_l1ve">блог</a>,&nbsp;
-            <a href="https://t.me/b4ck5p4c3">анонсы</a>,&nbsp;
-            <a href="https://t.me/b4cksp4ce_chat">чат</a>,&nbsp;
-            <a href="https://t.me/b4cksp4ce_issues">задачи</a>
+            <a href="https://t.me/+w-yypPCNwH1kYTYy">чат</a>&nbsp;
           </li>
           <li>
-            <a href="https://github.com/b4ck5p4c3">Github</a>,&nbsp;
-            <a href="https://matrix.to/#/#b4ck5p4c3:matrix.org">Matrix</a>
+            <a href="https://github.com/f0rthsp4ce">Github</a>&nbsp;
           </li>
-          <li>
-            <a href="https://www.instagram.com/b4ck5p4ce">Instagram</a>,&nbsp;
-            <a href="https://twitter.com/b4cksp4ce">Twitter</a>
-          </li>
-          <li><a href="tel:78125079241">+7 (812) 507-92-41</a> на случай важных переговоров</li>
         </ul>
       </article>
     </>
