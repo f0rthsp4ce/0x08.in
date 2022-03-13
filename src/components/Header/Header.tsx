@@ -2,7 +2,7 @@ import React from 'react'
 import Link from 'next/link';
 import Image from '@/components/Image';
 import css from './Header.module.scss';
-import logo from '@/assets/logo.svg';
+import logo from '@/assets/logo.jpeg';
 
 export default function Header() {
   return (
@@ -15,7 +15,7 @@ export default function Header() {
             src={logo} 
             width={100} 
             height={65}
-            alt="Backspace logo – a white-black image of a backspace button" 
+            alt="Forthspace logo – a black-green image of a terminal prompt"
           />
         </a>
       </Link>
