@@ -7,8 +7,10 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>F0RTHSP4CE – Hackspace in Tbilisi</title>
-        <meta name="description" content="Сообщество энтузиастов и энтузиасток, обьединённых вокруг технологий и искусства. Вместе мы разбираемся в сложных вещах, проводим события, работаем над проектами и просто хорошо проводим время." />
-        <meta name="keywords" content="f0rthsp4ce, forthspace, хакспейс, хакспейс тбилиси" />
+        <meta name="description" content="A community of enthusiasts, focused on technology and art. We are trying to wrap our
+          heads about things that are not easy to understand and to create events.
+          But first and foremost we are having a good time." />
+        <meta name="keywords" content="f0rthsp4ce, forthspace, hackspace, hackerspace, hackerspace tbilisi" />
       </Head>
 
       <h1>F0RTHSP4CE</h1>
