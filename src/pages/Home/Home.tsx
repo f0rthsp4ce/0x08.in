@@ -36,7 +36,7 @@ const Home: NextPage = () => {
         </p>
         <p>
           Residents are managing space in a free time on pure enthusiasm, we have flat hierarchy
-          and no "administrators" or "managers". We like guests, but we are ready to meet you
+          and no administrators or managers. We like guests, but we are ready to meet you
           only when we are ready. If you want to plan a visit, please ping us:&nbsp;
           <a href="https://t.me/+w-yypPCNwH1kYTYy">chat</a>.
         </p>
@@ -53,7 +53,7 @@ const Home: NextPage = () => {
         <ol>
           <li>
             <b>Be brilliant to each other</b>
-            <p>Listen to each other's needs and opinions.</p>
+            <p>Listen to each other&apos;s needs and opinions.</p>
           </li>
           <li>
             <b>Do not oppress and do not bother</b>
@@ -68,7 +68,7 @@ const Home: NextPage = () => {
           </li>
           <li>
             <b>Financial independence</b>
-            <p>F0RTHSP4CE is not a start-up, resident is a resident and you can't by more voting power with donations.</p>
+            <p>F0RTHSP4CE is not a start-up, resident is a resident and you can&apos;t by more voting power with donations.</p>
           </li>
           <li>
             <b>Do-ocracy</b>
@@ -86,7 +86,7 @@ const Home: NextPage = () => {
           <h2>Donation</h2>
         </header>
         <p>
-          F0RTHSP4CE is horizontal, so we can exist only with residents' and guests' donations.
+          F0RTHSP4CE is horizontal, so we can exist only with residents&apos; and guests&apos; donations.
           If you want to help us:
         </p>
         <ul>
