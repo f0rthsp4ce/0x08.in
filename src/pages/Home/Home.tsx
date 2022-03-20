@@ -62,7 +62,7 @@ const Home: NextPage = () => {
             <p>Be wary of personal boundaries, be ready to make compromises.</p>
           </li>
           <li>
-            <b>Give more then you take</b>
+            <b>Give more than you take</b>
             <p>
               F0RTHSP4CE can grow only if the community makes it better.
               We are not a co-working per se, so we are all the ones who make the workspaces for each other.
